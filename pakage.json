@@ -1,0 +1,13 @@
+{
+    "name": "simple-bot",
+    "version": "1.0.0",
+    "description": "This is a simple test and experiment bot",
+    "main": "HWK OFFICIAL BOT.js",
+    "author": "P͓̽I͓̽Y͓̽U͓̽S͓̽H͓̽ 07#3695",
+    "scripts": {
+        "start": "node bot.js"
+    },
+    "dependencies": {
+	"discord.js" : "11.2.1"
+	}
+}
